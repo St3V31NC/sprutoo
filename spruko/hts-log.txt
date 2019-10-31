@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Wed, 30 Oct 2019 13:48:13 at https://www.spruko.com/demo/reallist/htm/Html/
+(winhttrack https://www.spruko.com/demo/reallist/htm/Html/ -O "/Users/Stephen/websites/spruko" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:48:14	Warning: 	HTML file (104076 bytes) retransferred due to lack of cache: https://www.spruko.com/demo/reallist/htm/Html/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 2 links scanned, 1 files written (103088 bytes overall), 1 files updated [104128 bytes received at 34709 bytes/sec], 462 bytes transferred using HTTP compression in 1 files, ratio 100%
+(No errors, 1 warnings, 0 messages)
